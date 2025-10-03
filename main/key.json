@@ -1,0 +1,31 @@
+-- 外部卡密配置脚本
+-- 将此文件上传到你的GitHub仓库，并使用Raw链接
+return {
+    keys = {
+        {
+            key = "DAILY123456",
+            type = "daily",
+            used = false
+        },
+        {
+            key = "WEEKLY789012", 
+            type = "weekly",
+            used = false
+        },
+        {
+            key = "MONTHLY345678",
+            type = "monthly", 
+            used = false
+        },
+        {
+            key = "PERMANENT901234",
+            type = "permanent",
+            used = false
+        },
+        {
+            key = "TESTKEY2024",
+            type = "daily",
+            used = false
+        }
+    }
+}
