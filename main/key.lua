@@ -22,6 +22,6 @@ return {
         }
     },
     externalScripts = {
-        "https://raw.githubusercontent.com/yourusername/yourrepo/main/features.lua"
+        "https://raw.githubusercontent.com/yourusername/yourrepo/main/premium_features.lua"
     }
 }
